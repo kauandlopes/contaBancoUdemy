@@ -16,4 +16,3 @@ Este repositório contém a implementação de um sistema simples de conta banc�
 ✅ Java  
 ✅ Eclipse
 
-Este exercício reforça a importância de um código **organizado e reutilizável**, facilitando a manutenção do sistema. 
